@@ -1,2 +1,5 @@
-# Proyecto-final-programacion-I
-En este repositorio se aloja mi proyecto de la parte practica del examen final.
+Examen final de programacion 
+Angel Estuardo Campos Santay 9941-25-4809
+Mi programa sirve para administrar una tienda. Permite registrar productos, consultar la información de los productos, actualizar existencias y modificar precios.
+También permite realizar ventas, calcular automáticamente el total a pagar con impuestos y descuentos, y descontar los productos vendidos del inventario.
+Además, genera reportes para ver cuáles son los productos más vendidos, cuáles tienen menos existencias y estadísticas generales de las ventas realizadas.
